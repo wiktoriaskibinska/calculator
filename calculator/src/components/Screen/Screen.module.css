@@ -1,0 +1,8 @@
+.screen {
+  background-color: #daf561;
+  border: none;
+  font-size: 24px;
+  color: rgb(255, 255, 255);
+  border-radius: 10px;
+  outline: none;
+}

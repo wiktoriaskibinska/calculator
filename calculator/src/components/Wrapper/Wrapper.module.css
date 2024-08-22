@@ -1,0 +1,9 @@
+.wrapper {
+  text-align: center;
+  align-items: center;
+  width: 440px;
+  height: 540px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #525b88;
+}
