@@ -1,3 +1,8 @@
 .buttonBox {
-  background-color: #dee2fc;
+  display: grid;
+  width: 100%;
+  height: 75%;
+  grid-template-columns: repeat(4, 1fr); /* 4 kolumny */
+  grid-template-rows: repeat(5, 1fr); /* 6 rzędów po 4 i 1 rząd po 3 */
+  gap: 10px; /* Odstępy między przyciskami */
 }

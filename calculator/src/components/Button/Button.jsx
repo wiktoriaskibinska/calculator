@@ -1,5 +1,5 @@
 import css from "./Button.module.css";
-function Button() {
-  return <div className={css.button}>Im button</div>;
-}
+const Button = ({ value }) => {
+  return <div className={css.button}>{value}</div>;
+};
 export default Button;

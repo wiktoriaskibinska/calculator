@@ -6,4 +6,11 @@
   cursor: pointer;
   border-radius: 10px;
   outline: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.button:last-of-type {
+  grid-column: 3 / 5;
+  background-color: rgb(243, 61, 29);
 }
